@@ -1,5 +1,7 @@
 ## Hi, I'm Phillip 👋
-<img src="[image.jpg](https://drive.google.com/file/d/1MuahITgALX9WTHkIbA7psvdfVWo3mK8d/view?usp=sharing)" alt="Description of image">
+
+<img src="[image.jpg](https://drive.google.com/uc?export=download&id=1MuahITgALX9WTHkIbA7psvdfVWo3mK8d)" alt="Description of image">
+
 💻 Software developer
 🌱 I’m currently learning Information Communication Technology at Tshwane University of Technology (TUT)
 🔭 I’m currently working on Java ATM Simulator
